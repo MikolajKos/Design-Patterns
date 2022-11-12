@@ -1,0 +1,16 @@
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CONSOLE\ConsoleFigury\ConsoleFigury\bin\Debug\net5.0\ConsoleFigury.exe
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CONSOLE\ConsoleFigury\ConsoleFigury\bin\Debug\net5.0\ConsoleFigury.deps.json
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CONSOLE\ConsoleFigury\ConsoleFigury\bin\Debug\net5.0\ConsoleFigury.runtimeconfig.json
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CONSOLE\ConsoleFigury\ConsoleFigury\bin\Debug\net5.0\ConsoleFigury.runtimeconfig.dev.json
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CONSOLE\ConsoleFigury\ConsoleFigury\bin\Debug\net5.0\ConsoleFigury.dll
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CONSOLE\ConsoleFigury\ConsoleFigury\bin\Debug\net5.0\ref\ConsoleFigury.dll
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CONSOLE\ConsoleFigury\ConsoleFigury\bin\Debug\net5.0\ConsoleFigury.pdb
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CONSOLE\ConsoleFigury\ConsoleFigury\obj\Debug\net5.0\ConsoleFigury.csproj.AssemblyReference.cache
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CONSOLE\ConsoleFigury\ConsoleFigury\obj\Debug\net5.0\ConsoleFigury.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CONSOLE\ConsoleFigury\ConsoleFigury\obj\Debug\net5.0\ConsoleFigury.AssemblyInfoInputs.cache
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CONSOLE\ConsoleFigury\ConsoleFigury\obj\Debug\net5.0\ConsoleFigury.AssemblyInfo.cs
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CONSOLE\ConsoleFigury\ConsoleFigury\obj\Debug\net5.0\ConsoleFigury.csproj.CoreCompileInputs.cache
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CONSOLE\ConsoleFigury\ConsoleFigury\obj\Debug\net5.0\ConsoleFigury.dll
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CONSOLE\ConsoleFigury\ConsoleFigury\obj\Debug\net5.0\ref\ConsoleFigury.dll
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CONSOLE\ConsoleFigury\ConsoleFigury\obj\Debug\net5.0\ConsoleFigury.pdb
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\.NET\CONSOLE\ConsoleFigury\ConsoleFigury\obj\Debug\net5.0\ConsoleFigury.genruntimeconfig.cache

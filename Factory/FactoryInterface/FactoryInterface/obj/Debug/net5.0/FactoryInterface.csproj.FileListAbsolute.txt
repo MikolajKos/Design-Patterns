@@ -1,0 +1,16 @@
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Design-Patterns\Factory\FactoryInterface\FactoryInterface\bin\Debug\net5.0\FactoryInterface.exe
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Design-Patterns\Factory\FactoryInterface\FactoryInterface\bin\Debug\net5.0\FactoryInterface.deps.json
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Design-Patterns\Factory\FactoryInterface\FactoryInterface\bin\Debug\net5.0\FactoryInterface.runtimeconfig.json
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Design-Patterns\Factory\FactoryInterface\FactoryInterface\bin\Debug\net5.0\FactoryInterface.runtimeconfig.dev.json
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Design-Patterns\Factory\FactoryInterface\FactoryInterface\bin\Debug\net5.0\FactoryInterface.dll
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Design-Patterns\Factory\FactoryInterface\FactoryInterface\bin\Debug\net5.0\ref\FactoryInterface.dll
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Design-Patterns\Factory\FactoryInterface\FactoryInterface\bin\Debug\net5.0\FactoryInterface.pdb
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Design-Patterns\Factory\FactoryInterface\FactoryInterface\obj\Debug\net5.0\FactoryInterface.csproj.AssemblyReference.cache
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Design-Patterns\Factory\FactoryInterface\FactoryInterface\obj\Debug\net5.0\FactoryInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Design-Patterns\Factory\FactoryInterface\FactoryInterface\obj\Debug\net5.0\FactoryInterface.AssemblyInfoInputs.cache
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Design-Patterns\Factory\FactoryInterface\FactoryInterface\obj\Debug\net5.0\FactoryInterface.AssemblyInfo.cs
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Design-Patterns\Factory\FactoryInterface\FactoryInterface\obj\Debug\net5.0\FactoryInterface.csproj.CoreCompileInputs.cache
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Design-Patterns\Factory\FactoryInterface\FactoryInterface\obj\Debug\net5.0\FactoryInterface.dll
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Design-Patterns\Factory\FactoryInterface\FactoryInterface\obj\Debug\net5.0\ref\FactoryInterface.dll
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Design-Patterns\Factory\FactoryInterface\FactoryInterface\obj\Debug\net5.0\FactoryInterface.pdb
+C:\Users\nikok\OneDrive\Dokumenty\PROGRAMOWANIE\Design-Patterns\Factory\FactoryInterface\FactoryInterface\obj\Debug\net5.0\FactoryInterface.genruntimeconfig.cache
